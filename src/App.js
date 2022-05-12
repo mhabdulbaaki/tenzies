@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React from "react";
 import Dice from "./components/dice"
 import { nanoid } from 'nanoid'
